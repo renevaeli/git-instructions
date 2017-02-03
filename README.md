@@ -36,6 +36,7 @@ CLONE, Starting from the a project in Github:
 		find out where you are
 
 	2. cd Desktop
+		or whereever you want to copy the folder
 
 	3. Go to github.com, open the repository, get the url <remotename>
 
@@ -46,7 +47,7 @@ CLONE, Starting from the a project in Github:
 
 	IF THE PROJECT IS NOT INTELLIJ FORMATTTED:
 		5. "Import project", accept the terms - sdk, jdk, ...
-		5.1 ?!??!!??!
+		5.1 !!!RIGHT CLICK ON THE MAIN METHOD!!!, run Run ´Main.main()´ - this complies the thing and tells him where main is
 		
 	PUSH it back to Github:
 	6. git add .
