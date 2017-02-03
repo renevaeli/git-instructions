@@ -51,7 +51,7 @@ CLONE, Starting from the a project in Github:
 	PUSH it back to Github:
 	6. git add .
 
-	7. git commit
+	7. git commit -m "commit message"
 
 	8. git push <remotename> master	
 		write the url, dont paste it, otherwise automatically submits
@@ -66,7 +66,7 @@ PULL, Starting from the project in Github
 
 	6. git add .
 
-	7. git commit
+	7. git commit -m "commit message"
 
 	8. git push <remotename> master
 
